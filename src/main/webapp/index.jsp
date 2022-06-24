@@ -5,7 +5,7 @@
 <title>Calculator</title>
 </head>
 <body>
-<h1 style="text_align=center">Cal-c</h1>
+<h1 style="text_align=center">POWERSTAR PAWANKALYAN</h1>
       <form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
